@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Movie App</string>
+    <string name="sucide_desc">Supervillains Harley Quinn, Bloodsport, Peacemaker and a collection of nutty cons at Belle Reve prison join the super-secret, super-shady Task Force X as they are dropped off at the remote, enemy-infused island of Corto Maltese.</string>
+    <string name="freeman_desc">A bank teller discovers that he\'s actually an NPC inside a brutal, open world video game.</string>
+    <string name="jungle_desc">Based on Disneyland\'s theme park ride where a small riverboat takes a group of travelers through a jungle filled with dangerous animals and reptiles but with a supernatural element.</string>
+    <string name="moana_desc">In Ancient Polynesia, when a terrible curse incurred by the Demigod Maui reaches Moana\'s island, she answers the Ocean\'s call to seek out the Demigod to set things right.</string>
+    <string name="default_desc">Supervillains Harley Quinn, Bloodsport, Peacemaker and a collection of nutty cons at Belle Reve prison join the super-secret, super-shady Task Force X as they are dropped off at the remote, enemy-infused island of Corto Maltese.</string>
+
+</resources>

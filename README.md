@@ -1,7 +1,7 @@
 
 # Description
 
-It is a very good looking app that shows popular films and movies with RecyclerView and Horizental Slider, It also shows the detials about every movie.
+It is a very good looking app that shows popular films and movies, It also shows the detials about every movie like the actors and the story.
 
 
 **Note**: the data in the app is fake.

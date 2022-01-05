@@ -7,7 +7,7 @@ It is a very good looking app that shows popular films and movies with RecyclerV
 **Note**: the data in the app is fake.
 
 ## Techs
-* RecyclerView.
+* **RecyclerView**.
 * Simple Transition Animation.
 * Slider.
 * Glide.

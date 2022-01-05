@@ -8,9 +8,9 @@ It is a very good looking app that shows popular films and movies with RecyclerV
 
 ## Techs
 * **RecyclerView**.
-* Simple Transition Animation.
-* Slider.
-* Glide.
+* **Simple Transition Animation**.
+* **Slider**.
+* **Glide**.
 ## Screenshots
 
 ![Screenshot1](https://user-images.githubusercontent.com/79477855/148279585-2f897cb9-6511-440f-ba3e-70cccca1e38f.jpg)

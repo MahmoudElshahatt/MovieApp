@@ -11,6 +11,7 @@ It is a very good looking app that shows popular films and movies, It also shows
 * **Simple Transition Animation**.
 * **Slider**.
 * **Glide**.
+
 ## Screenshots
 
 

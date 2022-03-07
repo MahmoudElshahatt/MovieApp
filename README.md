@@ -3,7 +3,7 @@
 
 It is an app with a very good user interface that shows popular films and movies, It also shows the detials about every movie like the actors and the story.
 
-
+</br>
 **Note**: the data in the app is fake.
 
 ## Techs

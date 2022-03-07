@@ -7,7 +7,7 @@ It is an app with a very good user interface that shows popular films and movies
 
 **Note**: the data in the app is fake.
 
-## Techs
+## Tech stack
 * **RecyclerView**.
 * **Simple Transition Animation**.
 * **Slider**.

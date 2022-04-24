@@ -18,3 +18,5 @@ It is an app with a very good user interface that shows popular films and movies
 * **Simple Transition Animation**.
 * **Slider**.
 * **Glide**.
+
+**That's all 😃.**

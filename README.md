@@ -19,4 +19,4 @@ It is an app with a very good user interface that shows popular films and movies
 * **Slider**.
 * **Glide**.
 
-**That's all 😃.**
+

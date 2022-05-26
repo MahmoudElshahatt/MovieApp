@@ -7,7 +7,7 @@ It is an app with a very good user interface that shows popular films and movies
 
 **Note**: the data in the app is fake.
 
-# App Preview
+# ScreenShots
 
 <img src="https://user-images.githubusercontent.com/79477855/148279722-3024e450-db90-4fb6-a22d-14b125f1a67d.jpg" width="350" height="700"> <img src="https://user-images.githubusercontent.com/79477855/148279585-2f897cb9-6511-440f-ba3e-70cccca1e38f.jpg" width="350" height="700">
 
